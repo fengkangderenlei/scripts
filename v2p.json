@@ -1,4 +1,10 @@
 {
+    "id": "David.app.sub",
+    "name": "脚本订阅",
+    "author": "333",
+    "icon": "https://github.com/bluesmallpig/scripts/blob/main/dog.jpeg?raw=true",
+    "apps": [
+	        {
             "id":"synckey",
             "name":"同步cookies到v2p",
             "keys": ["v2purl", "v2token"],
@@ -29,4 +35,7 @@
                 "https://github.com/bluesmallpig/scripts/blob/main/img/sync.png?raw=true"
             ],
             "script":"https://raw.githubusercontent.com/fengkangderenlei/scripts/master/sync_v2p.js"
+        },
+		
+    ]
 }
