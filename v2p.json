@@ -1,7 +1,7 @@
 {
     "id": "David.app.sub",
-    "name": "D33333订阅",
-    "author": "@333id",
+    "name": "David脚本订阅",
+    "author": "@David",
     "icon": "https://github.com/bluesmallpig/scripts/blob/main/dog.jpeg?raw=true",
     "apps": [
 	        {
@@ -35,5 +35,7 @@
                 "https://github.com/bluesmallpig/scripts/blob/main/img/sync.png?raw=true"
             ],
             "script":"https://raw.githubusercontent.com/fengkangderenlei/scripts/master/sync_v2p.js"
-		]
-        },
+		
+		     }
+	    ]
+},
