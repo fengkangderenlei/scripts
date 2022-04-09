@@ -1,8 +1,8 @@
 {
-    "id": "David.app.sub",
-    "name": "David脚本订阅",
+    "id": "pp.sub",
+    "name": "订阅",
     "author": "@David",
-    "icon": "https://github.com/bluesmallpig/scripts/blob/main/dog.jpeg?raw=true",
+    "icon": "https://github.com/fengkangderenlei/scripts/blob/main/dog.jpeg?raw=true",
     "apps": [
 	        {
             "id":"fqctapp",
@@ -33,10 +33,10 @@
             }
             ],
             "author":"@David",
-            "repo":"https://github.com/bluesmallpig/scripts",
+            "repo":"https://github.com/fengkangderenlei/scripts",
             "icons":[
-                "https://github.com/bluesmallpig/scripts/blob/main/img/fqct-mini.png?raw=true",
-                "https://github.com/bluesmallpig/scripts/blob/main/img/fqct.png?raw=true"
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/fqct-mini.png?raw=true",
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/fqct.png?raw=true"
             ],
             "script":"https://github.com/"
         },
@@ -69,10 +69,10 @@
             }
 	    ],
             "author":"@David",
-            "repo":"https://github.com/bluesmallpig/scripts",
+            "repo":"https://github.com/fengkangderenlei/scripts",
             "icons":[
-                "https://github.com/bluesmallpig/scripts/blob/main/img/shuqi-mini.png?raw=true",
-                "https://github.com/bluesmallpig/scripts/blob/main/img/shuqi.png?raw=true"
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/shuqi-mini.png?raw=true",
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/shuqi.png?raw=true"
             ],
             "script":"https://github.com/"
         },
@@ -105,10 +105,10 @@
             }
 	    ],
             "author":"@David",
-            "repo":"https://github.com/bluesmallpig/scripts",
+            "repo":"https://github.com/fengkangderenlei/scripts",
             "icons":[
-                "https://github.com/bluesmallpig/scripts/blob/main/img/dyjsb-mini.png?raw=true",
-                "https://github.com/bluesmallpig/scripts/blob/main/img/dyjsb.png?raw=true"
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/dyjsb-mini.png?raw=true",
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/dyjsb.png?raw=true"
             ],
             "script":"https://github.com/"
         },
@@ -126,10 +126,10 @@
                 "desc": "你要抓取第几个账号，就填几。"
             }],
             "author":"@David",
-            "repo":"https://github.com/bluesmallpig/scripts",
+            "repo":"https://github.com/fengkangderenlei/scripts",
             "icons":[
-                "https://github.com/bluesmallpig/scripts/blob/main/img/qhbapp-mini.png?raw=true",
-                "https://github.com/bluesmallpig/scripts/blob/main/img/qhbapp.png?raw=true"
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/qhbapp-mini.png?raw=true",
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/qhbapp.png?raw=true"
             ],
             "script":"https://github.com/"
         },
@@ -147,10 +147,10 @@
                 "desc": "你要抓取第几个账号，就填几。"
             }],
             "author":"@David",
-            "repo":"https://github.com/bluesmallpig/scripts",
+            "repo":"https://github.com/fengkangderenlei/scripts",
             "icons":[
-                "https://github.com/bluesmallpig/scripts/blob/main/img/daw-mini.png?raw=true",
-                "https://github.com/bluesmallpig/scripts/blob/main/img/daw.png?raw=true"
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/daw-mini.png?raw=true",
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/daw.png?raw=true"
             ],
             "script":"https://github.com/"
         },
@@ -177,10 +177,10 @@
             }
             ],
             "author":"@David",
-            "repo":"https://github.com/bluesmallpig/scripts",
+            "repo":"https://github.com/fengkangderenlei/scripts",
             "icons":[
-                "https://github.com/bluesmallpig/scripts/blob/main/img/ls-mini.png?raw=true",
-                "https://github.com/bluesmallpig/scripts/blob/main/img/ls.png?raw=true"
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/ls-mini.png?raw=true",
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/ls.png?raw=true"
             ],
             "script":"https://github.com/"
         },
@@ -214,10 +214,10 @@
             }
 	    ],
             "author":"@David",
-            "repo":"https://github.com/bluesmallpig/scripts",
+            "repo":"https://github.com/fengkangderenlei/scripts",
             "icons":[
-                "https://github.com/bluesmallpig/scripts/blob/main/img/dzl-mini.png?raw=true",
-                "https://github.com/bluesmallpig/scripts/blob/main/img/dzl.png?raw=true"
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/dzl-mini.png?raw=true",
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/dzl.png?raw=true"
             ],
             "script":"https://github.com/"
         },
@@ -235,10 +235,10 @@
                 "desc": "你要抓取第几个账号，就填几。"
             }],
             "author":"@David",
-            "repo":"https://github.com/bluesmallpig/scripts",
+            "repo":"https://github.com/fengkangderenlei/scripts",
             "icons":[
-                "https://github.com/bluesmallpig/scripts/blob/main/img/ydyy-mini.png?raw=true",
-                "https://github.com/bluesmallpig/scripts/blob/main/img/ydyy.png?raw=true"
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/ydyy-mini.png?raw=true",
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/ydyy.png?raw=true"
             ],
             "script":"https://github.com/"
         },
@@ -256,10 +256,10 @@
                 "desc": "你要抓取第几个账号，就填几。"
             }],
             "author":"@David",
-            "repo":"https://github.com/bluesmallpig/scripts",
+            "repo":"https://github.com/fengkangderenlei/scripts",
             "icons":[
-                "https://github.com/bluesmallpig/scripts/blob/main/img/tc-mini.png?raw=true",
-                "https://github.com/bluesmallpig/scripts/blob/main/img/tc.png?raw=true"
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/tc-mini.png?raw=true",
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/tc.png?raw=true"
             ],
             "script":"https://github.com/"
         },
@@ -277,10 +277,10 @@
                 "desc": "你要抓取第几个账号，就填几。"
             }],
             "author":"@David",
-            "repo":"https://github.com/bluesmallpig/scripts",
+            "repo":"https://github.com/fengkangderenlei/scripts",
             "icons":[
-                "https://github.com/bluesmallpig/scripts/blob/main/img/dszb-mini.png?raw=true",
-                "https://github.com/bluesmallpig/scripts/blob/main/img/dszb.png?raw=true"
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/dszb-mini.png?raw=true",
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/dszb.png?raw=true"
             ],
             "script":"https://github.com/"
         },
@@ -298,10 +298,10 @@
                 "desc": "你要抓取第几个账号，就填几。"
             }],
             "author":"@David",
-            "repo":"https://github.com/bluesmallpig/scripts",
+            "repo":"https://github.com/fengkangderenlei/scripts",
             "icons":[
-                "https://github.com/bluesmallpig/scripts/blob/main/img/xmyd-mini.png?raw=true",
-                "https://github.com/bluesmallpig/scripts/blob/main/img/xmyd.png?raw=true"
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/xmyd-mini.png?raw=true",
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/xmyd.png?raw=true"
             ],
             "script":"https://github.com/"
         },
@@ -319,10 +319,10 @@
                 "desc": "你要抓取第几个账号，就填几。"
             }],
             "author":"@David",
-            "repo":"https://github.com/bluesmallpig/scripts",
+            "repo":"https://github.com/fengkangderenlei/scripts",
             "icons":[
-                "https://github.com/bluesmallpig/scripts/blob/main/img/cydxs-mini.png?raw=true",
-                "https://github.com/bluesmallpig/scripts/blob/main/img/cydxs.png?raw=true"
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/cydxs-mini.png?raw=true",
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/cydxs.png?raw=true"
             ],
             "script":"https://github.com/"
         },
@@ -340,10 +340,10 @@
                 "desc": "你要抓取第几个账号，就填几。"
             }],
             "author":"@David",
-            "repo":"https://github.com/bluesmallpig/scripts",
+            "repo":"https://github.com/fengkangderenlei/scripts",
             "icons":[
-                "https://github.com/bluesmallpig/scripts/blob/main/img/wzdt-mini.png?raw=true",
-                "https://github.com/bluesmallpig/scripts/blob/main/img/wzdt.png?raw=true"
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/wzdt-mini.png?raw=true",
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/wzdt.png?raw=true"
             ],
             "script":"https://github.com/"
         },
@@ -383,10 +383,10 @@
             }
 	    ],
             "author":"@David",
-            "repo":"https://github.com/bluesmallpig/scripts",
+            "repo":"https://github.com/fengkangderenlei/scripts",
             "icons":[
-                "https://github.com/bluesmallpig/scripts/blob/main/img/dsj-mini.png?raw=true",
-                "https://github.com/bluesmallpig/scripts/blob/main/img/dsj.png?raw=true"
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/dsj-mini.png?raw=true",
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/dsj.png?raw=true"
             ],
             "script":"https://github.com/"
         },
@@ -432,10 +432,10 @@
             }
 	    ],
             "author":"@David",
-            "repo":"https://github.com/bluesmallpig/scripts",
+            "repo":"https://github.com/fengkangderenlei/scripts",
             "icons":[
-                "https://github.com/bluesmallpig/scripts/blob/main/img/zq_jc_mini.png?raw=true",
-                "https://github.com/bluesmallpig/scripts/blob/main/img/zq_jc.png?raw=true"
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/zq_jc_mini.png?raw=true",
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/zq_jc.png?raw=true"
             ],
             "script":"https://github.com/"
         },
@@ -468,10 +468,10 @@
             }
             ],
             "author":"@David",
-            "repo":"https://github.com/bluesmallpig/scripts",
+            "repo":"https://github.com/fengkangderenlei/scripts",
             "icons":[
-                "https://github.com/bluesmallpig/scripts/blob/main/img/gylm-mini.png?raw=true",
-                "https://github.com/bluesmallpig/scripts/blob/main/img/gylm.png?raw=true"
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/gylm-mini.png?raw=true",
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/gylm.png?raw=true"
             ],
             "script":"https://github.com/"
         },
@@ -504,10 +504,10 @@
             }
             ],
             "author":"@David",
-            "repo":"https://github.com/bluesmallpig/scripts",
+            "repo":"https://github.com/fengkangderenlei/scripts",
             "icons":[
-                "https://github.com/bluesmallpig/scripts/blob/main/img/fqxs-mini.png?raw=true",
-                "https://github.com/bluesmallpig/scripts/blob/main/img/fqxs.png?raw=true"
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/fqxs-mini.png?raw=true",
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/fqxs.png?raw=true"
             ],
             "script":"https://github.com/"
         },
@@ -540,10 +540,10 @@
             }
             ],
             "author":"@David",
-            "repo":"https://github.com/bluesmallpig/scripts",
+            "repo":"https://github.com/fengkangderenlei/scripts",
             "icons":[
-                "https://github.com/bluesmallpig/scripts/blob/main/img/hlhb-mini.png?raw=true",
-                "https://github.com/bluesmallpig/scripts/blob/main/img/hlhb.png?raw=true"
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/hlhb-mini.png?raw=true",
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/hlhb.png?raw=true"
             ],
             "script":"https://github.com/"
         },
@@ -576,10 +576,10 @@
             }
             ],
             "author":"@David",
-            "repo":"https://github.com/bluesmallpig/scripts",
+            "repo":"https://github.com/fengkangderenlei/scripts",
             "icons":[
-                "https://github.com/bluesmallpig/scripts/blob/main/img/djxs-mini.png?raw=true",
-                "https://github.com/bluesmallpig/scripts/blob/main/img/djxs.png?raw=true"
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/djxs-mini.png?raw=true",
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/djxs.png?raw=true"
             ],
             "script":"https://github.com/"
         },
@@ -612,10 +612,10 @@
             }
             ],
             "author":"@David",
-            "repo":"https://github.com/bluesmallpig/scripts",
+            "repo":"https://github.com/fengkangderenlei/scripts",
             "icons":[
-                "https://github.com/bluesmallpig/scripts/blob/main/img/fdxs-mini.png?raw=true",
-                "https://github.com/bluesmallpig/scripts/blob/main/img/fdxs.png?raw=true"
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/fdxs-mini.png?raw=true",
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/fdxs.png?raw=true"
             ],
             "script":"https://github.com/"
         },
@@ -648,10 +648,10 @@
             }
             ],
             "author":"@David",
-            "repo":"https://github.com/bluesmallpig/scripts",
+            "repo":"https://github.com/fengkangderenlei/scripts",
             "icons":[
-                "https://github.com/bluesmallpig/scripts/blob/main/img/qqyd-mini.png?raw=true",
-                "https://github.com/bluesmallpig/scripts/blob/main/img/qqyd.png?raw=true"
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/qqyd-mini.png?raw=true",
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/qqyd.png?raw=true"
             ],
             "script":"https://github.com/"
         },
@@ -691,10 +691,10 @@
             }
             ],
             "author":"@David",
-            "repo":"https://github.com/bluesmallpig/scripts",
+            "repo":"https://github.com/fengkangderenlei/scripts",
             "icons":[
-                "https://github.com/bluesmallpig/scripts/blob/main/img/awy-mini.png?raw=true",
-                "https://github.com/bluesmallpig/scripts/blob/main/img/awy.png?raw=true"
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/awy-mini.png?raw=true",
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/awy.png?raw=true"
             ],
             "script":"https://github.com/"
         },
@@ -727,10 +727,10 @@
             }
             ],
             "author":"@David",
-            "repo":"https://github.com/bluesmallpig/scripts",
+            "repo":"https://github.com/fengkangderenlei/scripts",
             "icons":[
-                "https://github.com/bluesmallpig/scripts/blob/main/img/sl-mini.png?raw=true",
-                "https://github.com/bluesmallpig/scripts/blob/main/img/sl.png?raw=true"
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/sl-mini.png?raw=true",
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/sl.png?raw=true"
             ],
             "script":"https://github.com/"
         },
@@ -777,10 +777,10 @@
             }
             ],
             "author":"@David",
-            "repo":"https://github.com/bluesmallpig/scripts",
+            "repo":"https://github.com/fengkangderenlei/scripts",
             "icons":[
-                "https://github.com/bluesmallpig/scripts/blob/main/img/zqkd-mini.png?raw=true",
-                "https://github.com/bluesmallpig/scripts/blob/main/img/zqkd.png?raw=true"
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/zqkd-mini.png?raw=true",
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/zqkd.png?raw=true"
             ],
             "script":"https://github.com/"
         },
@@ -813,10 +813,10 @@
             }
             ],
             "author":"@David",
-            "repo":"https://github.com/bluesmallpig/scripts",
+            "repo":"https://github.com/fengkangderenlei/scripts",
             "icons":[
-                "https://github.com/bluesmallpig/scripts/blob/main/img/sjb-mini.png?raw=true",
-                "https://github.com/bluesmallpig/scripts/blob/main/img/sjb.png?raw=true"
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/sjb-mini.png?raw=true",
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/sjb.png?raw=true"
             ],
             "script":"https://github.com/"
         },
@@ -845,12 +845,12 @@
         	"desc": "请到设置查询,例子:a8c259b2-67fe-D-7bfdf1f55cb3"
       	     }],
             "author":"@Cenbomin",
-            "repo":"https://github.com/bluesmallpig/scripts",
+            "repo":"https://github.com/fengkangderenlei/scripts",
             "icons":[
-                "https://github.com/bluesmallpig/scripts/blob/main/img/sync-mini.png?raw=true",
-                "https://github.com/bluesmallpig/scripts/blob/main/img/sync.png?raw=true"
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/sync-mini.png?raw=true",
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/sync.png?raw=true"
             ],
-            "script":"https://raw.githubusercontent.com/bluesmallpig/scripts/main/sync_v2p.js"
+            "script":"https://raw.githubusercontent.com/fengkangderenlei/scripts/main/sync_v2p.js"
         },
 	{
             "id":"zssqapp",
@@ -881,10 +881,10 @@
             }
             ],
             "author":"@David",
-            "repo":"https://github.com/bluesmallpig/scripts",
+            "repo":"https://github.com/fengkangderenlei/scripts",
             "icons":[
-                "https://github.com/bluesmallpig/scripts/blob/main/img/zssq-mini.png?raw=true",
-                "https://github.com/bluesmallpig/scripts/blob/main/img/zssq.png?raw=true"
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/zssq-mini.png?raw=true",
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/zssq.png?raw=true"
             ],
             "script":"https://github.com/"
         },
@@ -917,10 +917,10 @@
             }
             ],
             "author":"@David",
-            "repo":"https://github.com/bluesmallpig/scripts",
+            "repo":"https://github.com/fengkangderenlei/scripts",
             "icons":[
-                "https://github.com/bluesmallpig/scripts/blob/main/img/txs-mini.png?raw=true",
-                "https://github.com/bluesmallpig/scripts/blob/main/img/txs.png?raw=true"
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/txs-mini.png?raw=true",
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/txs.png?raw=true"
             ],
             "script":"https://github.com/"
         },
@@ -953,10 +953,10 @@
             }
             ],
             "author":"@David",
-            "repo":"https://github.com/bluesmallpig/scripts",
+            "repo":"https://github.com/fengkangderenlei/scripts",
             "icons":[
-                "https://github.com/bluesmallpig/scripts/blob/main/img/wlkd-mini.png?raw=true",
-                "https://github.com/bluesmallpig/scripts/blob/main/img/wlkd.png?raw=true"
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/wlkd-mini.png?raw=true",
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/wlkd.png?raw=true"
             ],
             "script":"https://github.com/"
         },
@@ -1025,12 +1025,12 @@
             }
             ],
             "author":"@David",
-            "repo":"https://github.com/bluesmallpig/scripts",
+            "repo":"https://github.com/fengkangderenlei/scripts",
             "icons":[
-                "https://github.com/bluesmallpig/scripts/blob/main/img/ql-mini.png?raw=true",
-                "https://github.com/bluesmallpig/scripts/blob/main/img/ql.png?raw=true"
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/ql-mini.png?raw=true",
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/ql.png?raw=true"
             ],
-            "script":"https://raw.githubusercontent.com/bluesmallpig/scripts/main/sync_ql.js"
+            "script":"https://raw.githubusercontent.com/fengkangderenlei/scripts/main/sync_ql.js"
         },
         {
             "id":"jrttapp",
@@ -1061,10 +1061,10 @@
             }
             ],
             "author":"@David",
-            "repo":"https://github.com/bluesmallpig/scripts",
+            "repo":"https://github.com/fengkangderenlei/scripts",
             "icons":[
-                "https://github.com/bluesmallpig/scripts/blob/main/img/jrtt-mini.png?raw=true",
-                "https://github.com/bluesmallpig/scripts/blob/main/img/jrtt.png?raw=true"
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/jrtt-mini.png?raw=true",
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/jrtt.png?raw=true"
             ],
             "script":"https://github.com/"
         },
@@ -1097,10 +1097,10 @@
             }
             ],
             "author":"@David",
-            "repo":"https://github.com/bluesmallpig/scripts",
+            "repo":"https://github.com/fengkangderenlei/scripts",
             "icons":[
-                "https://github.com/bluesmallpig/scripts/blob/main/img/kkd-mini.png?raw=true",
-                "https://github.com/bluesmallpig/scripts/blob/main/img/kkd.png?raw=true"
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/kkd-mini.png?raw=true",
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/kkd.png?raw=true"
             ],
             "script":"https://github.com/"
         },
@@ -1133,10 +1133,10 @@
             }
             ],
             "author":"@David",
-            "repo":"https://github.com/bluesmallpig/scripts",
+            "repo":"https://github.com/fengkangderenlei/scripts",
             "icons":[
-                "https://github.com/bluesmallpig/scripts/blob/main/img/jztt-mini.png?raw=true",
-                "https://github.com/bluesmallpig/scripts/blob/main/img/jztt.png?raw=true"
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/jztt-mini.png?raw=true",
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/jztt.png?raw=true"
             ],
             "script":"https://github.com/"
         },
@@ -1169,10 +1169,10 @@
             }
             ],
             "author":"@David",
-            "repo":"https://github.com/bluesmallpig/scripts",
+            "repo":"https://github.com/fengkangderenlei/scripts",
             "icons":[
-                "https://github.com/bluesmallpig/scripts/blob/main/img/ks-mini.png?raw=true",
-                "https://github.com/bluesmallpig/scripts/blob/main/img/ks.png?raw=true"
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/ks-mini.png?raw=true",
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/ks.png?raw=true"
             ],
             "script":"https://github.com/"
         },
@@ -1205,10 +1205,10 @@
             }
             ],
             "author":"@David",
-            "repo":"https://github.com/bluesmallpig/scripts",
+            "repo":"https://github.com/fengkangderenlei/scripts",
             "icons":[
-                "https://github.com/bluesmallpig/scripts/blob/main/img/jktt-mini.png?raw=true",
-                "https://github.com/bluesmallpig/scripts/blob/main/img/jktt.png?raw=true"
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/jktt-mini.png?raw=true",
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/jktt.png?raw=true"
             ],
             "script":"https://github.com/"
         },
@@ -1240,11 +1240,11 @@
                 "desc": "从机器人获得"
             }
             ],
-            "author":"@David",
-            "repo":"https://github.com/bluesmallpig/scripts",
+            "author":"3332",
+            "repo":"https://github.com/fengkangderenlei/scripts",
             "icons":[
-                "https://github.com/bluesmallpig/scripts/blob/main/img/qtt-mini.png?raw=true",
-                "https://github.com/bluesmallpig/scripts/blob/main/img/qtt.png?raw=true"
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/qtt-mini.png?raw=true",
+                "https://github.com/fengkangderenlei/scripts/blob/main/img/qtt.png?raw=true"
             ],
             "script":"https://github.com/"
         }
