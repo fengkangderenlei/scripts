@@ -5,6 +5,8 @@ by CenBoMin
 const $ = new Env('elecv2pCk')
 const v2purl ='http://192.168.1.172:8100'
 const v2ptoken ='d71549bb-b344-4941-9bc3-0914dc5457a1';
+let v2purl ='http://192.168.1.172:8100'
+let v2ptoken ='d71549bb-b344-4941-9bc3-0914dc5457a1'
 $.v2pcookieupdate = $.getdata("v2pcookieupdate") ? $.getdata("v2pcookieupdate") === "true" : false;
 //++++++++++++++++++++++++++++++++++++++++
 $.KEY_usercfgs = 'chavy_boxjs_userCfgs'
