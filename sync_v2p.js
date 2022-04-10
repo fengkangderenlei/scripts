@@ -3,8 +3,8 @@ by CenBoMin
 感谢作者！
 **/
 const $ = new Env('elecv2pCk')
-const v2purl = $.getval('v2purl')
-const v2ptoken = $.getval('v2token');
+const v2purl = $.getval('http://192.168.1.172:8100')
+const v2ptoken = $.getval('d71549bb-b344-4941-9bc3-0914dc5457a1');
 $.v2pcookieupdate = $.getdata("v2pcookieupdate") ? $.getdata("v2pcookieupdate") === "true" : false;
 //++++++++++++++++++++++++++++++++++++++++
 $.KEY_usercfgs = 'chavy_boxjs_userCfgs'
